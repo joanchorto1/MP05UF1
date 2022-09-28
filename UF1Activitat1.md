@@ -41,17 +41,21 @@ Amb la formació de Desenvolupador de Python, la oferta de treball es molt eleva
 
 ## C++
 ### Naixement: 
-
+1979
 ### Creador: 
-
+Bjarne Stroustrup
 ### Evolucio:
-
+Es el decendent directe del codi C, aquest codi va ser creat per implementar les millores que hi van apareixer, a mes de arreglar alguns dels errors que tenia el seu predecessor el llenguatge C.
 ### Caracteristiques del llenguatge:
-
+La seva sintaxi es heredada del C, es un llenguatge de programació orientada a objectes.
+Permet la agrupacio de diferents instruccions en un mateix programa.
+Es un llenguatge portable, es a dir que pot ser utilitzat en diferents plataformes.
+Permet la separació en moduls, per a fer una compilació independent.(Es un llenguatge compilat)
+Es un llenguatge de alt nivell.
 ### Exemple:
-
+`std::cout << "Hello World!";`
 ### Ofertes de treball:
-
+La oferta de traball per a un programador de C++ no es tan elevada com Java o Python pero, tot i aixó segueix hi havent bastantes ofertes de treball, https://www.infojobs.net/jobsearch/search-results/list.xhtml
 
 ## SQL
 ### Naixement: 
@@ -68,11 +72,14 @@ Amb la formació de Desenvolupador de Python, la oferta de treball es molt eleva
 
 
 ## WEBGRAFIA
-http://www.itlp.edu.mx/web/java/Tutorial%20de%20Java/Intro/carac.html
-https://aws.amazon.com/es/what-is/java/
-https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)
-https://es.wikipedia.org/wiki/Python
-https://www.miteris.com/blog/que-es-python-caracteristicas-y-librerias/
-
-
+- http://www.itlp.edu.mx/web/java/Tutorial%20de%20Java/Intro/carac.html
+- https://aws.amazon.com/es/what-is/java/
+- https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)
+- https://es.wikipedia.org/wiki/Python
+- https://www.miteris.com/blog/que-es-python-caracteristicas-y-librerias/
+- https://es.wikipedia.org/wiki/C%2B%2B
+- https://www.programiz.com/cpp-programming/examples/print-sentence
+- https://www2.eii.uva.es/fund_inf/cpp/temas/1_introduccion/introduccion.html#:~:text=C%2B%2B%20es%20un%20lenguaje%20compilado,a%20objetos%20del%20lenguaje%20C.&text=C%2B%2B%20significar%C3%ADa%20incremento%20de%20C,operador%20%2B%2B%20con%20ese%20nombre.
+- 
+ 
 
