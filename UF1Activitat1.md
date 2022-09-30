@@ -59,17 +59,25 @@ La oferta de traball per a un programador de C++ no es tan elevada com Java o Py
 
 ## SQL
 ### Naixement: 
-
+1974
 ### Creador: 
-
+Donald D. Chamberlin & Raymond F. Boyce
 ### Evolucio:
+En el 1970 amb l'aparició del model relacional, comença lla creacio de un llenguatge de consulta de base de dades, aquest comença a utilitzar-se a partir del 1974 baix el nom de SQL.
+AL 1999 apareixen les expressions regulars i les consultes recursives a mes a mes de altres caracteristiques orientades a objectes.
+Al 2006 S'implanta una actualització en el llenguatge SQL qe permet ser utilitzat conjuntament amb XML.
+Al 2016 apareix la busqueda per patrons, les funcions de taules i la compativilitat en fitxers JSON.
 
 ### Caracteristiques del llenguatge:
-
+El SQL es un llenguatge de alt nivell que està orientat a objectes.
+Aquest llenguatge utilitza comandes per a la definició i consulta de esquemes relacionals.
+Permet incorporar altres tipus de llenguatge de programació per a afewgir funcions no establertes al propi llenguatge. 
 ### Exemple:
-
+- `CREATE TABLE clientes;`
+- `ALTER TABLE alumnos ADD edad INT UNSIGNED;`
 ### Ofertes de treball:
-
+Hi apareixen algunes ofertes de treball, però la demanada es inferior si ho comparem amb els llenguatges anteriors.
+https://www.infojobs.net/jobsearch/search-results/list.xhtml
 
 ## WEBGRAFIA
 - http://www.itlp.edu.mx/web/java/Tutorial%20de%20Java/Intro/carac.html
@@ -79,7 +87,7 @@ La oferta de traball per a un programador de C++ no es tan elevada com Java o Py
 - https://www.miteris.com/blog/que-es-python-caracteristicas-y-librerias/
 - https://es.wikipedia.org/wiki/C%2B%2B
 - https://www.programiz.com/cpp-programming/examples/print-sentence
-- https://www2.eii.uva.es/fund_inf/cpp/temas/1_introduccion/introduccion.html#:~:text=C%2B%2B%20es%20un%20lenguaje%20compilado,a%20objetos%20del%20lenguaje%20C.&text=C%2B%2B%20significar%C3%ADa%20incremento%20de%20C,operador%20%2B%2B%20con%20ese%20nombre.
-- 
+-https://www2.eii.uva.es/fund_inf/cpp/temas/1_introduccion/introduccion.html#:~:text=C%2B%2B%20es%20un%20lenguaje%20compilado,a%20objetos%20del%20lenguaje%20C.&text=C%2B%2B%20significar%C3%ADa%20incremento%20de%20C,operador%20%2B%2B%20con%20ese%20nombre.
+- https://es.wikipedia.org/wiki/SQL#Or%C3%ADgenes_y_evoluci%C3%B3n
  
 
