@@ -9,20 +9,22 @@ Sun Microsystems (James Gosling)
 ### Evolucio:
 El Java prove de C i C++ per no té una funcionalitat de tant baix nivell, es un llenguatge de VM de alt nivell.
 ### Caracteristiques del llenguatge:
-Es un llenguatge simple, es un llenguatge potent pero no agafa les caracteristiques obsoletes o desfuncionals del C i C++.
-Esta orientat a objectes, es a dir la forma de programació s'utilitzen objectes als quals els dones valor, i afegixes atributs.
+Es un llenguatge simple, es un llenguatge potent pero no agafa les caracteristiques obsoletes o desfuncionals del C i C++.??
+Esta **orientat a objectes**, es a dir la forma de programació s'utilitzen objectes als quals els dones valor, i afegixes atributs.
 Es un llenguatge distribuit, per a simplificar el codi, utilitza moltes llibreries externes mitjançant http i ftp.
 Es un llenguatge segur, es a dir java disposa de eines i caracteristiques que es poden utilitzar per a que el codi sigue més segur, que en el cas del C o C++.
 Es un llenguatge portable, pot ser utilitzat a la majoria dels sistemes operatius.
+Es compila per a Màquina Virtual.
 
 ### Exemple:
-`System.out.println("Hola Mon")`
+`System.out.println("Hola Mon")` Aqui falta codi.
 
 ### Ofertes de treball:
 Amb la formació de Desenvolupador de Java, la oferta de treball es molt elevada, en la web https://tinyurl.com/3556d5pu podem veure la gran quantitat de empreses que estan buscant treballadors relacionats amb el sector.
 
+Falta info.
 
-## Pyton
+## Pyton Python
 ### Naixement: 
 1991(primer programa publicat am python)
 ### Creador: 
@@ -38,6 +40,7 @@ Aquest llenguatge esta orientat a objectes.
 ### Ofertes de treball:
 Amb la formació de Desenvolupador de Python, la oferta de treball es molt elevada, en la web https://www.infojobs.net/ofertas-trabajo/programador-python podem veure la gran quantitat de empreses que estan buscant treballadors relacionats amb el sector.
 
+Falta info.
 
 ## C++
 ### Naixement: 
@@ -47,7 +50,7 @@ Bjarne Stroustrup
 ### Evolucio:
 Es el decendent directe del codi C, aquest codi va ser creat per implementar les millores que hi van apareixer, a mes de arreglar alguns dels errors que tenia el seu predecessor el llenguatge C.
 ### Caracteristiques del llenguatge:
-La seva sintaxi es heredada del C, es un llenguatge de programació orientada a objectes.
+La seva sintaxi es heredada del C, es un llenguatge de programació orientada a objectes i compilat.
 Permet la agrupacio de diferents instruccions en un mateix programa.
 Es un llenguatge portable, es a dir que pot ser utilitzat en diferents plataformes.
 Permet la separació en moduls, per a fer una compilació independent.(Es un llenguatge compilat)
@@ -56,6 +59,8 @@ Es un llenguatge de alt nivell.
 `std::cout << "Hello World!";`
 ### Ofertes de treball:
 La oferta de traball per a un programador de C++ no es tan elevada com Java o Python pero, tot i aixó segueix hi havent bastantes ofertes de treball, https://www.infojobs.net/jobsearch/search-results/list.xhtml
+
+Falta info.
 
 ## SQL
 ### Naixement: 
@@ -69,7 +74,7 @@ Al 2006 S'implanta una actualització en el llenguatge SQL qe permet ser utilitz
 Al 2016 apareix la busqueda per patrons, les funcions de taules i la compativilitat en fitxers JSON.
 
 ### Caracteristiques del llenguatge:
-El SQL es un llenguatge de alt nivell que està orientat a objectes.
+El SQL es un llenguatge de alt nivell que està orientat a objectes.??
 Aquest llenguatge utilitza comandes per a la definició i consulta de esquemes relacionals.
 Permet incorporar altres tipus de llenguatge de programació per a afewgir funcions no establertes al propi llenguatge. 
 ### Exemple:
