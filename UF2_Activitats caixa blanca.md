@@ -75,5 +75,11 @@ public class proves {
 
 5. Investiga sobre les proves de caixa negra:
 
-  - Què són?
-  - Quina diferència principal tenen sobre les de caixa blanca?
+  - **Què són?**
+  -Les proves de caixa negra, son proves en les que no es necessari coneixer el codi, unicament la funcionalitat del programa.
+  Aquestes proves es fan respecte a la funcvionalitat es a dir, comprovem que realment el programa fa la funcio per la qual ha estat desenvolupat.
+  Perexemple un programa que ha de sumar A+B jo he de introduir 2+2 i com a resultat m'ha de treure 4.
+  La unica funció de les proves de caixa negra es, comprovar que el codi faci el que es demana, no en's interesa com ho fa ni si tot funciona correctament, unicament en's interesa comprovar que dona els resultats correctes.
+  - **Quina diferència principal tenen sobre les de caixa blanca?**
+  - La diferencia principal es que en aquest cas noconeixem el codi, i en el cas de la caixa blanca si.
+  
