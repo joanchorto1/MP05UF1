@@ -17,7 +17,7 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
 
   - **Diagrama:**
   
-    ![image](https://drive.google.com/drive/u/1/folders/142ZhK4vBqdpfdGk6lmSt5TfbOrgKrb6N)
+    ![image](https://drive.google.com/file/d/1TjfpDYLXWARI34GErT-EN23kn0KPmt3B/view?usp=share_link)
 
   - **Resultat:** CC=2+1=3
 
