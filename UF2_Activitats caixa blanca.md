@@ -17,7 +17,7 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
 
   - **Diagrama:**
   
-    ![Selecció_149](https://user-images.githubusercontent.com/113586166/204738210-ff70b880-60ad-4118-b7e0-c1152261ffc7.png)
+    ![image](https://user-images.githubusercontent.com/113586166/204738210-ff70b880-60ad-4118-b7e0-c1152261ffc7.png)
 
   - **Resultat:** CC=2+1=3
 
@@ -47,7 +47,10 @@ public class proves {
 ```
 
   - **Diagrama:**
-  - **Resultat CC:**
+
+  ![image](https://user-images.githubusercontent.com/113586166/204743308-364b9ad0-99b6-4ddc-8228-bfeae7ee7930.png)
+
+  - **Resultat:** CC=3+1=4
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
@@ -61,8 +64,14 @@ public class proves {
     }
 ```
   - **Diagrama:**
-  - **Resultat CC:**
+
+![image](https://user-images.githubusercontent.com/113586166/204744209-fb68385d-111d-42ac-9e6b-601680455033.png)
+
+  - **Resultat:** CC= 2+1= 3 (Hi ha un 2 en el lloc de les condicións ja que dins del IF apareixen dos condicions separades per un OR.)
   - **Resultat proves camins:**
+  P1= hora=7 -->llums=true
+  P2= hora=21 --> llums=true
+  P3= hora=10 --> llums=false
 
 5. Investiga sobre les proves de caixa negra:
 
